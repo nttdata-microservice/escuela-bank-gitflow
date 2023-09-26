@@ -10,4 +10,5 @@ import javax.persistence.*;
 public class MelanyQuispe {
 
     private Integer id;
+
 }
