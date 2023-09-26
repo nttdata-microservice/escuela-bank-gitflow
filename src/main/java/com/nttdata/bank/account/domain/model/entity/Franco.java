@@ -1,4 +1,4 @@
-package src.main.java.com.nttdata.bank.account.domain.model.entity;
+package com.nttdata.bank.account.domain.model.entity;
 
 public class Franco 
 {
